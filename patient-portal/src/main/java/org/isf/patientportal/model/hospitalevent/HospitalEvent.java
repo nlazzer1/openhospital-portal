@@ -111,7 +111,10 @@ public class HospitalEvent {
 			this.date = item.date;
 			this.patient = item.patient;
 			this.eventType = item.eventType;
+<<<<<<< PP-11-Fix_errors_api_update
 			this.readDate = item.readDate;
+=======
+>>>>>>> develop
 			this.payload = item.payload;
 			return this;
 		}
